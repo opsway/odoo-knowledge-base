@@ -1,0 +1,1 @@
+# odoo-knowledge-base

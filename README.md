@@ -18,21 +18,22 @@ Stock accounting https://www.youtube.com/watch?v=m9jUeUi2OcI&t=3152s
 Implementation stratery https://www.odoo.com/openerp_portal/static/src/pdf/odoo_implementation.pdf
 
 
-## Development
+# Development
 
-# Connector
+## Backend
+### Connector
 Odoo connector: http://odoo-connector.com/
 
-# Security:
+### Security:
 Genereal secrurity structure overview and tips to avoid vulnerability:
 https://www.youtube.com/watch?v=27K-LmTPnZQ
 
-# Jobs
+### Jobs
 Main module to use for jobs: https://apps.odoo.com/apps/modules/11.0/queue_job/
 
-# Testing
+### Testing
 Pytest for odoo: https://github.com/camptocamp/pytest-odoo
 
-# Fronted
+## Fronted
 Angular: https://github.com/akretion/angular-odoo
 React: https://www.npmjs.com/package/react-native-odoo

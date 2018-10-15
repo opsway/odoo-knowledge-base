@@ -20,5 +20,19 @@ Implementation stratery https://www.odoo.com/openerp_portal/static/src/pdf/odoo_
 
 ## Development
 
-Odoo connector http://odoo-connector.com/
+# Connector
+Odoo connector: http://odoo-connector.com/
 
+# Security:
+Genereal secrurity structure overview and tips to avoid vulnerability:
+https://www.youtube.com/watch?v=27K-LmTPnZQ
+
+# Jobs
+Main module to use for jobs: https://apps.odoo.com/apps/modules/11.0/queue_job/
+
+# Testing
+Pytest for odoo: https://github.com/camptocamp/pytest-odoo
+
+# Fronted
+Angular: https://github.com/akretion/angular-odoo
+React: https://www.npmjs.com/package/react-native-odoo

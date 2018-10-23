@@ -25,7 +25,7 @@ Implementation stratery https://www.odoo.com/openerp_portal/static/src/pdf/odoo_
 Odoo connector: http://odoo-connector.com/
 
 ### Security:
-Genereal secrurity structure overview and tips to avoid vulnerability:
+Generic security structure overview and tips to avoid vulnerability:
 https://www.youtube.com/watch?v=27K-LmTPnZQ
 
 ### Jobs
@@ -37,3 +37,8 @@ Pytest for odoo: https://github.com/camptocamp/pytest-odoo
 ## Fronted
 Angular: https://github.com/akretion/angular-odoo
 React: https://www.npmjs.com/package/react-native-odoo
+
+## DevOps
+Optimizing PostgreSQL for Odoo: https://www.odoo-consultants.com/2016/01/23/improve-your-odoo-postgresql-performance/
+BigData in Odoo: https://www.odoo-consultants.com/2017/09/23/big-data-odoo-optimization/
+

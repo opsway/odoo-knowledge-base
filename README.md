@@ -34,11 +34,14 @@ Main module to use for jobs: https://apps.odoo.com/apps/modules/11.0/queue_job/
 ### Testing
 Pytest for odoo: https://github.com/camptocamp/pytest-odoo
 
-## Fronted
-Angular: https://github.com/akretion/angular-odoo
-React: https://www.npmjs.com/package/react-native-odoo
+## Frontend
+* Angular: https://github.com/akretion/angular-odoo
+* React: https://www.npmjs.com/package/react-native-odoo
 
 ## Performance
-Optimizing PostgreSQL for Odoo: https://www.odoo-consultants.com/2016/01/23/improve-your-odoo-postgresql-performance/
-BigData in Odoo: https://www.odoo-consultants.com/2017/09/23/big-data-odoo-optimization/
-Common performance-related mistakes in Odoo custom apps https://www.slideshare.net/openobject/performance2014-35689113
+* Optimizing PostgreSQL for Odoo: https://www.odoo-consultants.com/2016/01/23/improve-your-odoo-postgresql-performance/
+* BigData in Odoo: https://www.odoo-consultants.com/2017/09/23/big-data-odoo-optimization/
+* Common performance-related mistakes in Odoo custom apps https://www.slideshare.net/openobject/performance2014-35689113
+
+## DevOps
+* How to Deploy Odoo with Docker

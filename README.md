@@ -7,6 +7,10 @@ Creating automatic route for stock movement https://www.youtube.com/watch?v=T-tz
 
 Warehouse management with examples and ideas about routes/push/pull rules: https://www.odoo.com/slides/slide/introduction-to-odoo-warehouse-management-44
 
+### Issues
+Webiste and mulitcompany issue:
+https://www.odoo.com/forum/help-1/question/fiscal-localization-multi-company-issue-with-webiste-odoo12-141961
+
 ## Warehouse
 
 Warehouse management https://www.youtube.com/watch?v=Zj8_8Uh3EAo

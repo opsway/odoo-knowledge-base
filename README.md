@@ -48,4 +48,5 @@ Pytest for odoo: https://github.com/camptocamp/pytest-odoo
 * Common performance-related mistakes in Odoo custom apps https://www.slideshare.net/openobject/performance2014-35689113
 
 ## DevOps
-* How to Deploy Odoo with Docker
+### How to Deploy Odoo with Docker:
+  One can use https://github.com/lumirang/odoo-docker-extend repo in two ways, eather make a fork and add your addons, or add your existing repo as submodule. For more details see repository readme.

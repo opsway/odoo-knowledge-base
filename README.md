@@ -41,6 +41,8 @@ Main module to use for jobs: https://apps.odoo.com/apps/modules/11.0/queue_job/
 Pytest for odoo: https://github.com/camptocamp/pytest-odoo
 
 ## Frontend
+### Odoo Javascript framework
+- Create JS module: https://github.com/lumirang/odoo-assets-managment
 * Angular: https://github.com/akretion/angular-odoo
 * React: https://www.npmjs.com/package/react-native-odoo
 

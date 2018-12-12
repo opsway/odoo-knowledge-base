@@ -18,8 +18,8 @@ https://www.odoo.com/forum/help-1/question/fiscal-localization-multi-company-iss
 ## Warehouse
 
 Warehouse management https://www.youtube.com/watch?v=Zj8_8Uh3EAo
-
 Stock accounting https://www.youtube.com/watch?v=m9jUeUi2OcI&t=3152s
+Putaway strategy https://www.youtube.com/watch?v=UkYZSKR7AzU
 
 ## Project Management
 

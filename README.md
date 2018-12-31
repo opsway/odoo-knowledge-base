@@ -7,15 +7,22 @@ Creating automatic route for stock movement https://www.youtube.com/watch?v=T-tz
 
 Warehouse management with examples and ideas about routes/push/pull rules: https://www.odoo.com/slides/slide/introduction-to-odoo-warehouse-management-44
 
+### Importing data
+
+How to import simple data, Many2One, One2Many, Many2Many records https://fr.slideshare.net/Audaxis/opendays-import-csv-2013v5
+
+Examples how to import multiline documents: https://github.com/lumirang/odoo-knowledge-base/wiki/Importing-data
+
+
 ### Issues
-Webiste and mulitcompany issue:
+Website and mulitcompany issue:
 https://www.odoo.com/forum/help-1/question/fiscal-localization-multi-company-issue-with-webiste-odoo12-141961
 
 ## Warehouse
 
 Warehouse management https://www.youtube.com/watch?v=Zj8_8Uh3EAo
-
 Stock accounting https://www.youtube.com/watch?v=m9jUeUi2OcI&t=3152s
+Putaway strategy https://www.youtube.com/watch?v=UkYZSKR7AzU
 
 ## Project Management
 

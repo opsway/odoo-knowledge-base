@@ -40,6 +40,13 @@ Main module to use for jobs: https://apps.odoo.com/apps/modules/11.0/queue_job/
 ### Testing
 Pytest for odoo: https://github.com/camptocamp/pytest-odoo
 
+### Extra model, tab in the backend menu
+ * Create extra model: https://www.odoo.com/documentation/12.0/howtos/backend.html
+ * Add new button to existing menu:
+   * https://stackoverflow.com/questions/30050145/how-to-add-new-menu-item-to-an-existing-odoo-module
+   * https://stackoverflow.com/questions/52439859/odoo-10-extending-existing-module-to-show-new-menu-item?rq=1
+   * https://www.odoo.com/forum/help-1/question/how-to-add-a-new-action-menu-item-16786
+
 ## Frontend
 ### Odoo Javascript framework
 - Create JS module: https://github.com/lumirang/odoo-assets-managment

@@ -11,7 +11,8 @@ Warehouse management with examples and ideas about routes/push/pull rules: https
 
 How to import simple data, Many2One, One2Many, Many2Many records https://fr.slideshare.net/Audaxis/opendays-import-csv-2013v5
 
-Examples how to import multiline documents: https://github.com/lumirang/odoo-knowledge-base/wiki/Importing-data
+Example how to import multiline documents: https://github.com/lumirang/odoo-knowledge-base/wiki/Importing-data
+
 Example how to import product with multiple attributes and values: https://www.youtube.com/watch?v=tafkwl5dO_k
 
 

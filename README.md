@@ -1,6 +1,7 @@
 # Odoo Knowledge Base
 
 ## Functional 
+Inventory Terminology: https://www.odoo.com/documentation/user/12.0/inventory/overview/concepts/terminologies.html 
 
 ### Routes
 Creating automatic route for stock movement https://www.youtube.com/watch?v=T-tzrcJL0sg

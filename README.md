@@ -76,6 +76,7 @@ Pytest for odoo: https://github.com/camptocamp/pytest-odoo
 ## DevOps
 ### How to Deploy Odoo with Docker:
   One can use https://github.com/lumirang/odoo-docker-extend repo in two ways, eather make a fork and add your addons, or add your existing repo as submodule. For more details see repository readme.
+  
   See Odoo documentation to learn more about deployment config settings: https://www.odoo.com/documentation/12.0/setup/deploy.html
   
 ## Quality

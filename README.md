@@ -27,6 +27,11 @@ Warehouse management https://www.youtube.com/watch?v=Zj8_8Uh3EAo
 Stock accounting https://www.youtube.com/watch?v=m9jUeUi2OcI&t=3152s
 Putaway strategy https://www.youtube.com/watch?v=UkYZSKR7AzU
 
+## Manufacturing
+
+https://www.youtube.com/watch?v=PjZJVKT_AF4 - Odoo v12 manufacturing
+
+
 ## Project Management
 
 Implementation stratery https://www.odoo.com/openerp_portal/static/src/pdf/odoo_implementation.pdf

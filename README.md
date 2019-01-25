@@ -42,6 +42,7 @@ Implementation stratery https://www.odoo.com/openerp_portal/static/src/pdf/odoo_
 ## Backend
 ### Database
 * Migaration: https://doc.therp.nl/openupgrade/
+* Connecting to other db's: https://www.odoo.com/apps/modules/11.0/base_external_dbsource/
 ### Connector
 Odoo connector: http://odoo-connector.com/
 

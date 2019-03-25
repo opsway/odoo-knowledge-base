@@ -36,6 +36,9 @@ https://www.youtube.com/watch?v=PjZJVKT_AF4 - Odoo v12 manufacturing
 
 Implementation stratery https://www.odoo.com/openerp_portal/static/src/pdf/odoo_implementation.pdf
 
+## Multicompany
+Usuful modules: https://github.com/OCA/multi-company
+
 
 # Development
 

@@ -1,0 +1,74 @@
+# odoo-assets-managment
+
+### Add dependencies in manifest
+```
+'depends': ['web', 'website'],
+```
+
+### Create custom controller
+Add 'website' variable to http decorator with value 'True'
+
+```
+@http.route('/academy/objects/', type='http', auth='public', website=True)
+    def list(self, **kw):
+        return http.request.render('academy.listing')
+```
+
+### Inherit dependence 'website.layout' in template
+
+
+```
+<odoo>
+    <data>
+        <template id="listing" name="Gourmand Name" inherit_id="website.layout">
+        
+            <xpath expr="//nav[@id='oe_main_menu_navbar']" position="replace">
+            </xpath>
+            
+            <xpath expr="//div[@id='wrapwrap']" position="replace">
+            </xpath>
+            
+        </template>
+        </template>
+    </data>
+</odoo>
+
+```
+
+You can replace some block of code in standart odoo template
+
+```
+<xpath expr="//nav[@id='oe_main_menu_navbar']" position="replace">
+</xpath>
+```
+
+### Create custom web assets
+Inherit website.assets_frontend
+
+```
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="assets_frontend_inherit" inherit_id="website.assets_frontend" name="Shop">
+        <xpath expr="." position="inside">
+            <script type="text/javascript" src="/academy/static/src/js/test.js"></script>
+        </xpath>
+    </template>
+</odoo>
+
+```
+
+### Javascript Module System
+As an example, it may look like this:
+```
+odoo.define('academy.test', function (require) {
+    "use strict";
+    
+    // Some code here
+});
+
+```
+
+### Important
+
+1. Do not include custom jquery plugin in web assets. It may cause conflict
+2. 'web' and 'website' dependencies need inherit only once
